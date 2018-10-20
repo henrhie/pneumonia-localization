@@ -10,5 +10,5 @@ image labelled p-1-new-ai-can-diagnose-pneumonia-better-than-doctors.jpg wasn't 
  
  update
 !!!! 20/10/2018 !!!!
-Changed model to vgg19 and that seemed to perform a little better than the vgg16 with accuracy of 89%. I also noticed that the network used the "R" inscription on the upper right of  some images to make predictions in addition to the areas necessary.
+Changed model to vgg19 and that seemed to perform a little better than the vgg16 with accuracy of 89%. I also noticed that the network used the  inscription on the upper right of  some images to make predictions in addition to the areas necessary.
 Demonstration can be seen in image labelled chest_abnormality.png
